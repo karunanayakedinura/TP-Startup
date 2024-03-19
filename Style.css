@@ -127,3 +127,14 @@ h3 {
 img {
   width: 80%;
 }
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.container img {
+  display: block;
+  width: 100%;
+  opacity: 0.5; /* Changer la valeur de l'opacité selon vos besoins */
+}
